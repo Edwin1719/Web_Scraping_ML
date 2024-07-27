@@ -1,2 +1,3 @@
 # WebScraping_Mercado_Libre
-Este repositorio ejecuta un Web Scraping de la pagina Mercado Libre con Python y almacena los resultados del DataFrame en Google Drive para consumirlos con Power BI
+This repository executes Web Scraping of the Mercado Libre page with Python and stores the results of the DataFrame in Google Drive to be consumed within Power BI.
+![Logo](https://cdn-icons-png.flaticon.com/128/5566/5566212.png)
